@@ -1,0 +1,4 @@
+.env
+asyncapi-docs
+venv
+.gitignore.swp
