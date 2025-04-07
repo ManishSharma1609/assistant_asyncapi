@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-gpu
+streamlit
+langchain_openai
+streamlit_chat
+pillow
+python-dotenv
+beautifulsoup4 
+requests
