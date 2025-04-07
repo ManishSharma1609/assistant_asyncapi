@@ -12,7 +12,7 @@ load_dotenv()
 
 st.set_page_config(
     page_title="AsyncAPI Chat Assistant",
-    page_icon="🦜",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -53,7 +53,7 @@ with st.sidebar:
     st.write(f"**Name:** {user_name}")
     st.write(f"**Email:** {user_email}")
 
-st.header("AsyncAPI 🦜🔗 Assistant")
+st.header("AsyncAPI Assistant")
 
 # Initialize session state
 if "chat_answers_history" not in st.session_state:
