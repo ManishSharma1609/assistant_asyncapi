@@ -5,6 +5,10 @@ This is a simple web application made with RAG for building an AsyncAPI assistan
 
 
 
+https://github.com/user-attachments/assets/87f13cea-3753-449b-9742-6a07cbb69435
+
+
+
 
 ## Tech Stack
 Client: Streamlit
