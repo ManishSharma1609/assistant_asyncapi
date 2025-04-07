@@ -1,6 +1,7 @@
 langchain
 langchain-community
 faiss-gpu
+faiss-cpu
 streamlit
 langchain_openai
 streamlit_chat
